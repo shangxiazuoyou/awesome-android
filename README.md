@@ -33,8 +33,13 @@ A curated list of awesome Android libraries and projects.
 ### Download
 [Aria](https://github.com/AriaLyy/Aria) -下载可以很简单
 
+### WebView
+[AgentWeb](https://github.com/Justson/AgentWeb) -🔥 AgentWeb 是基于 Android WebView 一个功能完善小型浏览器库 。 使用很方便 ， 集成进你应用 ，只需几行代码
+
 ### TextView
 [CompoundIconTextView](https://github.com/AAkira/CompoundIconTextView) -An android library that is able to set a vector drawable at text view pre-Lollipop
+
+[SuperTextView](https://github.com/lygttpod/SuperTextView) -a super textview for android
 
 [TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android) -📄 Android Text Full Jusiftication / Wrapping / Justify / Hyphenate - V2.0
 
@@ -47,6 +52,30 @@ A curated list of awesome Android libraries and projects.
 [MultiActionTextView](https://github.com/ajaysahani/MultiActionTextView) -Create click event for TextView in between two index given for string
 
 [FaceText](https://github.com/songhanghang/FaceText) -颜文字排版 算法
+
+[MoneyTextView](https://github.com/fabiomsr/MoneyTextView) -A simple Android TextView to display amounts of money in different formats
+
+[TextViewSpanClickable](https://github.com/nimengbo/TextViewSpanClickable)
+
+[EditTextView](https://github.com/gregacucnik/EditTextView) -Android widget combination of ImageView, EditText and TextView
+
+[TextViewColor](https://github.com/bajian/TextViewColor)
+
+[ExpandTextView](https://github.com/igeek-YZ/ExpandTextView) -带收缩和展开的简单自定义textview
+
+[EllipsizeTextView](https://github.com/dinuscxj/EllipsizeTextView) -The EllipsizeTextView extends TextView, support omit (Ellipsize/Ellipsis) redundant characters in multiple lines situtation
+
+[ChangeNumberTextView](https://github.com/renjianan/ChangeNumberTextView) -实现类似支付宝余额数字变化的动画效果，数字可增大和减小
+
+[AlignTextView](https://github.com/androiddevelop/AlignTextView) -字体对齐的textview
+
+[ExpandableTextViewExample](https://github.com/jaydenxiao2016/ExpandableTextViewExample) -最轻量的可展开和收缩内容的TextView，可用于listview等列表或普通布局情况
+
+[ExpandableTextView](https://github.com/lianghanzhen/ExpandableTextView) -TextView that can expand like Google Play's app description
+
+[NumberAnimTextView](https://github.com/Bakumon/NumberAnimTextView) -😿数字增加动画的 TextView
+
+[CharCountTextView](https://github.com/xbroak/CharCountTextView) -A Twitter style post length counter which can be bound to an EditText and provide callbacks when hitting a max character count
 
 ### Button
 [ProgressButton](https://github.com/SundeepK/ProgressButton) -Simple Android widget that display a loading animation when a user clicks the button
