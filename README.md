@@ -40,6 +40,16 @@ A curated list of awesome Android libraries and projects.
 
 [android-async-http](https://github.com/loopj/android-async-http) -An Asynchronous HTTP Library for Android
 
+[Novate](https://github.com/Tamicer/Novate) -A safety client by Https for android, (Android网络库，基于Retrofit和RxJava打的的链式网络库, 支持okhttp的调用风格，又兼容Retrofit注解方式，并支持rxJava链式操作。方便扩展，并能实现高速加载)
+
+[RetrofitUtils](https://github.com/open-android/RetrofitUtils) -retrofit网络工具类
+
+[RetrofitUtils](https://github.com/WHuaJian/RetrofitUtils) -对Retrofit的简单封装：设置缓存、公共参数、添加headers、自定义响应体和统一的callback
+
+[ZJHRetrofit](https://github.com/zhoujingheng/ZJHRetrofit) -Retrofit和Retrofit+RxJava构建
+
+[JWHttpWrapper](https://github.com/jclick/JWHttpWrapper) -Android http request 封装。基于OkHttp
+
 ### Download
 [Aria](https://github.com/AriaLyy/Aria) -🔥下载可以很简单
 
@@ -65,6 +75,8 @@ A curated list of awesome Android libraries and projects.
 [ExtraWebView](https://github.com/bkhezry/ExtraWebView) -the flexible and easy to use WebView library
 
 [AdBlockedWebView-Android](https://github.com/AmniX/AdBlockedWebView-Android) -An Implementation of WebView with Ad-blocked Interface. Blocks Banner And Video Apps From Web Page
+
+[YTWebView](https://github.com/icewst/YTWebView) -好用的Android WebView控件，带下拉刷新。PullToRefresh WebView
 
 ### TextView
 [CompoundIconTextView](https://github.com/AAkira/CompoundIconTextView) -🔥An android library that is able to set a vector drawable at text view pre-Lollipop
@@ -158,6 +170,10 @@ A curated list of awesome Android libraries and projects.
 
 [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) -Bootstrap style widgets for Android, with Glyph Icons
 
+[roundbutton](https://github.com/czy1121/roundbutton) -可设置圆角背景边框的的按钮
+
+[Android_ProgressButton](https://github.com/xuzhitaosanta/Android_ProgressButton) -带进度条的按钮，支持失败点击重新工作
+
 ### LabelView
 [FlycoLabelView](https://github.com/H07000223/FlycoLabelView) -A Simple Android LabelView
 
@@ -178,4 +194,46 @@ A curated list of awesome Android libraries and projects.
 
 [FastHub](https://github.com/k0shk0sh/FastHub) -🔥FastHub the ultimate GitHub client for Android
 
+### Calendar
+[MNCalendar](https://github.com/maning0303/MNCalendar) -🔥简单的日历控件练习，水平方向日历支持手势滑动切换，跳转月份；垂直方向日历选取区间范围
 
+[Calendar](https://github.com/lichao315/Calendar) -这是一个符合中国人使用习惯的Android上自定义日历控件
+
+[material-calendarview](https://github.com/prolificinteractive/material-calendarview) -A Material design back port of Android's CalendarView
+
+[Caldroid](https://github.com/roomorama/Caldroid) -🔥A better calendar for Android
+
+[CalendarSelector](https://github.com/lvning/CalendarSelector) -Android Calendar ListView 仿淘宝客户端预订日历列表
+
+### 完整项目
+[MeetMusic](https://github.com/lijunyandev/MeetMusic)
+
+[AccountBook](https://github.com/Airsaid/AccountBook) -一个数据存储使用的 Leancloud、架构采用 MVP 的记账本 APP。（目前正在不断完善中）
+
+[OneDaily](https://github.com/tmntduke/OneDaily)
+
+[MinimalistWeather](https://github.com/BaronZ88/MinimalistWeather) -Android 平台开源天气 App，采用 MVP、RxJava、Retrofit2、OKHttp3、Dagger2、RetroLambda 等开源库来实现
+
+[sealtalk-android](https://github.com/sealtalk/sealtalk-android) -Android App of SealTalk powered by RongCloud. 基于融云开发的 Android 版即时通讯（IM）应用程序 - 嗨豹
+
+[babyIyo](https://github.com/SUNJUNYIN/babyIyo) -一款适合学习的APP
+
+[MyDiary](https://github.com/RUI1806415923/MyDiary) -仿新海诚《你的名字》myDiary
+
+[YourDay](https://github.com/quiet-wuxiao/YourDay) -YouDay根据你的名字中日记软件编写开源
+
+[MyDiary](https://github.com/erttyy8821/MyDiary) -In the Movie "-your name.-" (君の名は。, 你的名字) , "My Diary" of android version is
+
+[Ghost](https://github.com/GeekGhost/Ghost) -微影，一款纯粹的在线视频App，基于Material Design + MVP + RxJava + Retrofit + Realm + Glide
+
+[One](https://github.com/taolin2107/One) -【一个·One】android客户端
+
+[PlayTogether](https://github.com/ChenAt/PlayTogether) -一款以兴趣为驱动的陌生人社交app
+
+[wechat](https://github.com/motianhuo/wechat) -A High Copy WeChat ,SNS APP (高仿微信)
+
+[huabanDemo](https://github.com/LiCola/huabanDemo) -MD版的花瓣网App
+
+[SimplifyReader](https://github.com/chentao0707/SimplifyReader) -一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块
+
+[WeatherAlarmClock](https://github.com/kaku2015/WeatherAlarmClock) -Alarm clock with weather warning 一款具有天气提醒功能的闹钟
