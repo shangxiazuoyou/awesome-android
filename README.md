@@ -30,8 +30,22 @@ A curated list of awesome Android libraries and projects.
 
 [HttpRequest](https://github.com/leibing8912/HttpRequest) -一个基于 retrofit + okhttp + Gson 封装的网络框架
 
+[Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) -🚀 A Complete Fast Android Networking Library that also supports HTTP/2 🚀
+
+[HttpRequest](https://github.com/robinxdroid/HttpRequest)
+
+[ReactiveNetwork](https://github.com/pwittchen/ReactiveNetwork) -Android library listening network connection state and Internet connectivity with RxJava Observables
+
+[okhttp](https://github.com/square/okhttp) -An HTTP+HTTP/2 client for Android and Java applications
+
+[android-async-http](https://github.com/loopj/android-async-http) -An Asynchronous HTTP Library for Android
+
 ### Download
 [Aria](https://github.com/AriaLyy/Aria) -🔥下载可以很简单
+
+[FileDownloader](https://github.com/lingochamp/FileDownloader) -Multitask、MultiThread(MultiConnection)、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process
+
+[MultiThreadDownloader](https://github.com/AigeStudio/MultiThreadDownloader) -Light weight and simple Multi-Thread Downloader for Android
 
 ### WebView
 [AgentWeb](https://github.com/Justson/AgentWeb) -🔥 AgentWeb 是基于 Android WebView 一个功能完善小型浏览器库 。 使用很方便 ， 集成进你应用 ，只需几行代码
@@ -57,6 +71,18 @@ A curated list of awesome Android libraries and projects.
 
 [SuperTextView](https://github.com/lygttpod/SuperTextView) -🔥a super textview for android
 
+[SuperTextView](https://github.com/chenBingX/SuperTextView)
+
+[RotatingText](https://github.com/sdsmdg/RotatingText) -A periodic text updating library
+
+[SlantedTextView](https://github.com/HeZaiJin/SlantedTextView)
+
+[ExpandTextView](https://github.com/lcodecorex/ExpandTextView) -可展开(Expand)的TextView,保留了TextView的属性,方便易用（TextView that can expand/collapse in some way easier. ）
+
+[PinchZoomTextView](https://github.com/androidessence/PinchZoomTextView) -A TextView library that allows the user to increase/decrease font size with a two finger gesture by the user
+
+
+
 [TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android) -📄 Android Text Full Jusiftication / Wrapping / Justify / Hyphenate - V2.0
 
 [android-TextLinkify](https://github.com/googlesamples/android-TextLinkify) -This sample illustrates how links can be added to a TextView. This can be done either automatically by setting the "autoLink" property or explicitly
@@ -76,6 +102,8 @@ A curated list of awesome Android libraries and projects.
 [EditTextView](https://github.com/gregacucnik/EditTextView) -Android widget combination of ImageView, EditText and TextView
 
 [TextViewColor](https://github.com/bajian/TextViewColor)
+
+[TimelyTextView](https://github.com/adnan-SM/TimelyTextView) -Animated TextView like Timely app
 
 [ExpandTextView](https://github.com/igeek-YZ/ExpandTextView) -带收缩和展开的简单自定义textview
 
@@ -123,6 +151,12 @@ A curated list of awesome Android libraries and projects.
 [SwitchButton](https://github.com/kyleduo/SwitchButton) -A cute widget of Switch Button for you to create beautiful and friendly UI
 
 [FloatingActionButton](https://github.com/Clans/FloatingActionButton) -🔥Android Floating Action Button based on Material Design specification
+
+[ButtonProgressBar](https://github.com/ishaan1995/ButtonProgressBar) -A Download Button ProgressBar, inspiration from Dribbble
+
+[easyloadingbtn](https://github.com/DevinShine/easyloadingbtn) -This is a Material Design loading button
+
+[Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) -Bootstrap style widgets for Android, with Glyph Icons
 
 ### LabelView
 [FlycoLabelView](https://github.com/H07000223/FlycoLabelView) -A Simple Android LabelView
