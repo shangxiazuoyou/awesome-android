@@ -2,7 +2,7 @@
 A curated list of awesome Android libraries and projects.
 
 ### Network
-[okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo) -全新完美支持RxJava，比Retrofit更简单易用
+[okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo) -🔥全新完美支持RxJava，比Retrofit更简单易用
 
 [OKHttpUtils](https://github.com/duzechao/OKHttpUtils) -对OkHttp进行封装，网络请求失败自动查询本地缓存,上传文件等功能
 
@@ -31,15 +31,31 @@ A curated list of awesome Android libraries and projects.
 [HttpRequest](https://github.com/leibing8912/HttpRequest) -一个基于 retrofit + okhttp + Gson 封装的网络框架
 
 ### Download
-[Aria](https://github.com/AriaLyy/Aria) -下载可以很简单
+[Aria](https://github.com/AriaLyy/Aria) -🔥下载可以很简单
 
 ### WebView
 [AgentWeb](https://github.com/Justson/AgentWeb) -🔥 AgentWeb 是基于 Android WebView 一个功能完善小型浏览器库 。 使用很方便 ， 集成进你应用 ，只需几行代码
 
-### TextView
-[CompoundIconTextView](https://github.com/AAkira/CompoundIconTextView) -An android library that is able to set a vector drawable at text view pre-Lollipop
+[SafeWebView](https://github.com/seven456/SafeWebView) -Android Safe WebView、解决WebView的Js对象注入漏洞、支持网页将JS函数（function）传到Java层，方便回调
 
-[SuperTextView](https://github.com/lygttpod/SuperTextView) -a super textview for android
+[webview](https://github.com/rupok/webview) -Native Android WebView App Template with Loader (Progressbar)
+
+[Android-WebView-ProgressBar](https://github.com/PareshMayani/Android-WebView-ProgressBar) -How to load WebView with ProgressBar?
+
+[WebViewTopPropress](https://github.com/yangxu4536/WebViewTopPropress) -WebView顶部平滑进度条（仿微信效果）
+
+[WebViewJavascriptBridge](https://github.com/gzsll/WebViewJavascriptBridge) -WebViewJavascriptBridge for Android
+
+[SealBrowser](https://github.com/ymcao/SealBrowser) -Base On ChromeView Not WebView for Android
+
+[ExtraWebView](https://github.com/bkhezry/ExtraWebView) -the flexible and easy to use WebView library
+
+[AdBlockedWebView-Android](https://github.com/AmniX/AdBlockedWebView-Android) -An Implementation of WebView with Ad-blocked Interface. Blocks Banner And Video Apps From Web Page
+
+### TextView
+[CompoundIconTextView](https://github.com/AAkira/CompoundIconTextView) -🔥An android library that is able to set a vector drawable at text view pre-Lollipop
+
+[SuperTextView](https://github.com/lygttpod/SuperTextView) -🔥a super textview for android
 
 [TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android) -📄 Android Text Full Jusiftication / Wrapping / Justify / Hyphenate - V2.0
 
@@ -78,6 +94,8 @@ A curated list of awesome Android libraries and projects.
 [CharCountTextView](https://github.com/xbroak/CharCountTextView) -A Twitter style post length counter which can be bound to an EditText and provide callbacks when hitting a max character count
 
 ### Button
+[StateButton](https://github.com/niniloveyou/StateButton) -🔥一个可以用代码设置selector背景（按下去背景颜色更改，样式变化等等）的button, 再也不用写selector了
+
 [ProgressButton](https://github.com/SundeepK/ProgressButton) -Simple Android widget that display a loading animation when a user clicks the button
 
 [AndroidProgressButton](https://github.com/weidongjian/AndroidProgressButton) -a button with progress
@@ -94,11 +112,23 @@ A curated list of awesome Android libraries and projects.
 
 [android-process-button](https://github.com/dmytrodanylyk/android-process-button) -Android Buttons With Built-in Progress Meters
 
+[AllAngleExpandableButton](https://github.com/uin3566/AllAngleExpandableButton) -An expandable button menu that you can define expand angle and button count and so on
+
+[roundbutton](https://github.com/czy1121/roundbutton) -可设置圆角背景边框的的按钮
+
+[IconButton](https://github.com/pnc/IconButton) -A Button subclass for Android that provides better control over drawable positioning
+
+[Android-iosStyle-Button](https://github.com/crosswall/Android-iosStyle-Button)
+
+[SwitchButton](https://github.com/kyleduo/SwitchButton) -A cute widget of Switch Button for you to create beautiful and friendly UI
+
+[FloatingActionButton](https://github.com/Clans/FloatingActionButton) -🔥Android Floating Action Button based on Material Design specification
+
 ### LabelView
 [FlycoLabelView](https://github.com/H07000223/FlycoLabelView) -A Simple Android LabelView
 
 ### PhotoView
-[PhotoView](https://github.com/chrisbanes/PhotoView) -Implementation of ImageView for Android that supports zooming, by various touch gestures
+[PhotoView](https://github.com/chrisbanes/PhotoView) -🔥Implementation of ImageView for Android that supports zooming, by various touch gestures
 
 [AndroidInstagramPhotoViewer](https://github.com/ddsakura/AndroidInstagramPhotoViewer)
 
@@ -110,8 +140,8 @@ A curated list of awesome Android libraries and projects.
 [AnimateCheckBox](https://github.com/hanks-zyh/AnimateCheckBox) -A custom view in Android with a animation when CheckBox status changed
 
 ### GitHub Client
-[GitClub](https://github.com/TellH/GitClub) -An elegent Android Client for Github. 不仅仅是Github客户端，而且是一个发现优秀Github开源项目的app
+[GitClub](https://github.com/TellH/GitClub) -🔥An elegent Android Client for Github. 不仅仅是Github客户端，而且是一个发现优秀Github开源项目的app
 
-[FastHub](https://github.com/k0shk0sh/FastHub) -FastHub the ultimate GitHub client for Android
+[FastHub](https://github.com/k0shk0sh/FastHub) -🔥FastHub the ultimate GitHub client for Android
 
 
