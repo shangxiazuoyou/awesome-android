@@ -210,6 +210,8 @@ A curated list of awesome Android libraries and projects.
 
 [Android_ProgressButton](https://github.com/xuzhitaosanta/Android_ProgressButton) -带进度条的按钮，支持失败点击重新工作
 
+[android-FloatingActionButtonBasic](https://github.com/googlesamples/android-FloatingActionButtonBasic)
+
 ### LabelView
 [FlycoLabelView](https://github.com/H07000223/FlycoLabelView) -A Simple Android LabelView
 
@@ -333,3 +335,5 @@ A curated list of awesome Android libraries and projects.
 [LookLook](https://github.com/xinghongfei/LookLook) -A amazing reading app
 
 [Meizhi](https://github.com/drakeet/Meizhi) -🔥gank.io unofficial client, RxJava & Retrofit. (The project is no longer actively maintained, we have a better project
+
+[ONE-Unofficial](https://github.com/Uphie/ONE-Unofficial) -An unofficial app of ONE, which I like more and tries to be better
