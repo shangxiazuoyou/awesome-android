@@ -50,12 +50,28 @@ A curated list of awesome Android libraries and projects.
 
 [JWHttpWrapper](https://github.com/jclick/JWHttpWrapper) -Android http request 封装。基于OkHttp
 
+[OkHttpFinal](https://github.com/pengjianbo/OkHttpFinal) -OkHttp封装的一个简单易用HTTP请求
+
+[OkHttpPlus](https://github.com/ZhaoKaiQiang/OkHttpPlus) -OkHttp封装，支持GET、POST、UI线程回调、JSON格式解析、链式调用、小文件上传下载及进度监听等功能
+
+[Android-OkHttp-Jerry](https://github.com/JarvanMo/Android-OkHttp-Jerry)
+
+[Volley-OkHttp-Android](https://github.com/lxdvs/Volley-OkHttp-Android) -This is a clone of Volley, with the relevant changes made to make it work with Square's OkHttp library. It also has Jackson integrated to provide a convenient object model
+
+[okhttp-signpost](https://github.com/pakerfeldt/okhttp-signpost) -OAuth signing with signpost and okhttp
+
+[VolleyManager](https://github.com/ALLENnan/VolleyManager) -A simple demo using Volley,OkHttp and Gson.(Volley,OkHttp和Gson的封装库)
+
+[NoHttp](https://github.com/yanzhenjie/NoHttp) -🔥Android实现Http标准协议框架，支持缓存（提供五种缓存模式）、代理、重定向，底层可动态切换OkHttp、URLConnection，与RxJava完美结合，比Retrofit更简单易用
+
 ### Download
 [Aria](https://github.com/AriaLyy/Aria) -🔥下载可以很简单
 
 [FileDownloader](https://github.com/lingochamp/FileDownloader) -Multitask、MultiThread(MultiConnection)、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process
 
 [MultiThreadDownloader](https://github.com/AigeStudio/MultiThreadDownloader) -Light weight and simple Multi-Thread Downloader for Android
+
+[FileDownloaderFinal](https://github.com/pengjianbo/FileDownloaderFinal)
 
 ### WebView
 [AgentWeb](https://github.com/Justson/AgentWeb) -🔥 AgentWeb 是基于 Android WebView 一个功能完善小型浏览器库 。 使用很方便 ， 集成进你应用 ，只需几行代码
@@ -78,6 +94,8 @@ A curated list of awesome Android libraries and projects.
 
 [YTWebView](https://github.com/icewst/YTWebView) -好用的Android WebView控件，带下拉刷新。PullToRefresh WebView
 
+[FinestWebView-Android](https://github.com/TheFinestArtist/FinestWebView-Android) -🔥Beautiful and customizable Android Activity that shows web pages within an app
+
 ### TextView
 [CompoundIconTextView](https://github.com/AAkira/CompoundIconTextView) -🔥An android library that is able to set a vector drawable at text view pre-Lollipop
 
@@ -92,8 +110,6 @@ A curated list of awesome Android libraries and projects.
 [ExpandTextView](https://github.com/lcodecorex/ExpandTextView) -可展开(Expand)的TextView,保留了TextView的属性,方便易用（TextView that can expand/collapse in some way easier. ）
 
 [PinchZoomTextView](https://github.com/androidessence/PinchZoomTextView) -A TextView library that allows the user to increase/decrease font size with a two finger gesture by the user
-
-
 
 [TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android) -📄 Android Text Full Jusiftication / Wrapping / Justify / Hyphenate - V2.0
 
@@ -132,6 +148,10 @@ A curated list of awesome Android libraries and projects.
 [NumberAnimTextView](https://github.com/Bakumon/NumberAnimTextView) -😿数字增加动画的 TextView
 
 [CharCountTextView](https://github.com/xbroak/CharCountTextView) -A Twitter style post length counter which can be bound to an EditText and provide callbacks when hitting a max character count
+
+[TimeSinceTextView](https://github.com/damien5314/TimeSinceTextView) -Android TextView for displaying the time since a date
+
+[HTextView](https://github.com/hanks-zyh/HTextView) -🔥Animation effects to text, not really textview
 
 ### Button
 [StateButton](https://github.com/niniloveyou/StateButton) -🔥一个可以用代码设置selector背景（按下去背景颜色更改，样式变化等等）的button, 再也不用写selector了
@@ -237,3 +257,29 @@ A curated list of awesome Android libraries and projects.
 [SimplifyReader](https://github.com/chentao0707/SimplifyReader) -一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块
 
 [WeatherAlarmClock](https://github.com/kaku2015/WeatherAlarmClock) -Alarm clock with weather warning 一款具有天气提醒功能的闹钟
+
+[CoCoin](https://github.com/Nightonke/CoCoin) -🔥CoCoin, Multi-view Accounting Application
+
+[PhotoNoter](https://github.com/yydcdut/PhotoNoter) -📓Material Design风格的开源照片笔记。(MVP+Dagger2+RxJava+AspectJ+Dex处理)
+
+[RxWeather](https://github.com/SmartDengg/RxWeather) -Architecting Android with RxJava
+
+[jianshi](https://github.com/wingjay/jianshi) -A Full-Stack mobile app, including Android & Server, Simple-Poem 简诗. You can write poem in graceful & traditional Chinese style
+
+[RxJavaApp](https://github.com/jiang111/RxJavaApp) -学习RxJava操作符的APP,新增线程调度说明
+
+[TranslateApp](https://github.com/maoruibin/TranslateApp) -🔥A translations app without interruptions, copy words and translate directly, show result by top view
+
+[SmsCodeHelper](https://github.com/drakeet/SmsCodeHelper) -🔥Can automatically copy the SMS code to the user's clipboard, when the user receives the message verification code. Material Design and open source
+
+[WeiBo](https://github.com/wenmingvs/WeiBo) -🔥第三方新浪微博客户端
+
+[SmartTouch](https://github.com/yijiebuyi/SmartTouch) -基于UiAutomator框架，自动模拟用户手势操作，类似于触摸精灵，按键精灵的app
+
+[ZhihuPaper](https://github.com/cundong/ZhihuPaper) -一个知乎日报客户端
+
+[ZhihuDailyPurify](https://github.com/izzyleung/ZhihuDailyPurify) -Purified version of Zhihu Daily - 更纯净的知乎日报
+
+[FanXin2.0_IM](https://github.com/huangfangyi/FanXin2.0_IM) -超仿微信 android项目 IM
+
+[CarAssistant](https://github.com/qyxxjd/CarAssistant) -汽车助手:消费信息的增删改查;消费记录、百分比统计表;百公里油耗曲线图,最低油耗/最高油耗信息
