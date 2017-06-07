@@ -64,6 +64,18 @@ A curated list of awesome Android libraries and projects.
 
 [NoHttp](https://github.com/yanzhenjie/NoHttp) -🔥Android实现Http标准协议框架，支持缓存（提供五种缓存模式）、代理、重定向，底层可动态切换OkHttp、URLConnection，与RxJava完美结合，比Retrofit更简单易用
 
+[MyOkHttp](https://github.com/tsy12321/MyOkHttp) -对Okhttp3进行二次封装,对外提供了POST请求、GET请求、PATCH请求、PUT请求、DELETE请求、上传文件、下载文件、取消请求、Raw/Json/Gson返回、后台下载管理等功能
+
+[RetrofitUtils](https://github.com/Sarry16108/RetrofitUtils) -retrofit2封装后，每次url调用除了定义一个新的数据结构文件外，只需要调用一个create
+
+[RetrofitUtils-master](https://github.com/13971643458/RetrofitUtils-master) -对Retrofit的简单封装：设置缓存、公共参数、添加headers、自定义响应体和统一的callback
+
+[RetrofitClient](https://github.com/Tamicer/RetrofitClient) -基于Retrofit2.x和Rxjava1.x封装的请求工具类
+
+[OkRetrofit](https://github.com/Tailyou/OkRetrofit) -Retrofit+RxJava是当前最流行的Android网络交互解决方案。OkRetrofit是一个基于Retrofit2+RxJava2封装的文件下载和网络请求库
+
+[RetrofitUtils](https://github.com/WHuaJian/RetrofitUtils) -对Retrofit的简单封装：设置缓存、公共参数、添加headers、自定义响应体和统一的callback
+
 ### Download
 [Aria](https://github.com/AriaLyy/Aria) -🔥下载可以很简单
 
@@ -72,6 +84,10 @@ A curated list of awesome Android libraries and projects.
 [MultiThreadDownloader](https://github.com/AigeStudio/MultiThreadDownloader) -Light weight and simple Multi-Thread Downloader for Android
 
 [FileDownloaderFinal](https://github.com/pengjianbo/FileDownloaderFinal)
+
+[GHDownload](https://github.com/guanchao/GHDownload) -android下载框架，支持单线程和多线程断点下载
+
+[lib_download](https://github.com/wangdanlizhiyun/lib_download) -处理异步下载的库
 
 ### WebView
 [AgentWeb](https://github.com/Justson/AgentWeb) -🔥 AgentWeb 是基于 Android WebView 一个功能完善小型浏览器库 。 使用很方便 ， 集成进你应用 ，只需几行代码
@@ -234,9 +250,13 @@ A curated list of awesome Android libraries and projects.
 
 [MinimalistWeather](https://github.com/BaronZ88/MinimalistWeather) -Android 平台开源天气 App，采用 MVP、RxJava、Retrofit2、OKHttp3、Dagger2、RetroLambda 等开源库来实现
 
+[FakeWeather](https://github.com/li-yu/FakeWeather) -『假装看天气』─── 天气预报 & 公交查询 & 资讯阅读 & 妹纸福利 的 Android 客户端
+
 [sealtalk-android](https://github.com/sealtalk/sealtalk-android) -Android App of SealTalk powered by RongCloud. 基于融云开发的 Android 版即时通讯（IM）应用程序 - 嗨豹
 
 [babyIyo](https://github.com/SUNJUNYIN/babyIyo) -一款适合学习的APP
+
+[GridDiary](https://github.com/kylingo/GridDiary) -格子日记，用「自问」的形式引导自己写日记
 
 [MyDiary](https://github.com/RUI1806415923/MyDiary) -仿新海诚《你的名字》myDiary
 
@@ -280,6 +300,36 @@ A curated list of awesome Android libraries and projects.
 
 [ZhihuDailyPurify](https://github.com/izzyleung/ZhihuDailyPurify) -Purified version of Zhihu Daily - 更纯净的知乎日报
 
+[ZhiDaily](https://github.com/ShineYang/ZhiDaily) -ZhiDaily是一款基于知乎日报重新设计的第三方客户端
+
 [FanXin2.0_IM](https://github.com/huangfangyi/FanXin2.0_IM) -超仿微信 android项目 IM
 
 [CarAssistant](https://github.com/qyxxjd/CarAssistant) -汽车助手:消费信息的增删改查;消费记录、百分比统计表;百公里油耗曲线图,最低油耗/最高油耗信息
+
+[MyHearts](https://github.com/wuyinlei/MyHearts) -仿我心UI，后期有时间完善数据
+
+[Healer_Weather](https://github.com/wyhnihaook/Healer_Weather) -Healer天气预报
+
+[Doutu-master](https://github.com/yezihengok/Doutu-master) -斗图App 本着学习的心态现已把app 源码开源放到Github。时间匆忙可能遗留存在一些bug。 图片内容均来源于互联网搜索。APP不作任何商业用途，仅供学习使用 欢迎大家交流学习
+
+[FightPicture](https://github.com/SkylineVagrancy/FightPicture) -斗图app
+
+[Movie](https://github.com/AndroidPreView/Movie) -dagger实现的简单的电影列表
+
+[CloudReader](https://github.com/youlookwhat/CloudReader) -🔥云阅：一款基于网易云音乐UI，使用Gank.Io及豆瓣api开发的符合Google Material Design的Android客户端。项目采取的是MVVM-DataBinding架构开发，现主要包括：干货区、电影区和书籍区三个子模块
+
+[AndroidFire](https://github.com/jaydenxiao2016/AndroidFire) -🔥AndroidFire，一款新闻阅读 App框架，基于 Material Design + MVP + RxJava + Retrofit + Glide，基本涵盖了当前 Android 端开发最常用的主流框架，基于此框架可以快速开发一个app
+
+[BreadTravel](https://github.com/wuyinlei/BreadTravel) -仿面包旅行，打造属于自己的旅游日记
+
+[WeekToDo](https://github.com/a-voyager/WeekToDo) -《番茄周》软件开源项目
+
+[MyMy](https://github.com/liukangqi2015/MyMy)
+
+[BigBang](https://github.com/baoyongzhang/BigBang) -🔥模仿 Smartisan OS 的 BigBang 功能
+
+[RedPackage](https://github.com/hejunlin2013/RedPackage) -红包精灵
+
+[LookLook](https://github.com/xinghongfei/LookLook) -A amazing reading app
+
+[Meizhi](https://github.com/drakeet/Meizhi) -🔥gank.io unofficial client, RxJava & Retrofit. (The project is no longer actively maintained, we have a better project
