@@ -212,6 +212,10 @@ A curated list of awesome Android libraries and projects.
 
 [android-FloatingActionButtonBasic](https://github.com/googlesamples/android-FloatingActionButtonBasic)
 
+[LoadingButtonAndroid](https://github.com/leandroBorgesFerreira/LoadingButtonAndroid) -A button to substitute the ProgressDialog
+
+[SubmitButton](https://github.com/Someonewow/SubmitButton) -A submit button with a fun animation for Android
+
 ### LabelView
 [FlycoLabelView](https://github.com/H07000223/FlycoLabelView) -A Simple Android LabelView
 
@@ -343,6 +347,8 @@ A curated list of awesome Android libraries and projects.
 [ONE-Unofficial](https://github.com/Uphie/ONE-Unofficial) -An unofficial app of ONE, which I like more and tries to be better
 
 [android-oss](https://github.com/kickstarter/android-oss) -Kickstarter for Android. Bring new ideas to life, anywhere
+
+[QBox](https://github.com/OCNYang/QBox) -小秋魔盒（QBox）是一个生活工具 Android App
 
 ### 界面效果
 [MaterialShadows](https://github.com/harjot-oberai/MaterialShadows) -目前来看，Android 上最好看的控件阴影实现
