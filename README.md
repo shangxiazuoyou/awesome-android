@@ -243,6 +243,8 @@ A curated list of awesome Android libraries and projects.
 
 [CalendarSelector](https://github.com/lvning/CalendarSelector) -Android Calendar ListView 仿淘宝客户端预订日历列表
 
+[MyCalendarDemo](https://github.com/Werb/MyCalendarDemo) -Android日历软件
+
 ### 完整项目
 [MeetMusic](https://github.com/lijunyandev/MeetMusic)
 
@@ -304,6 +306,8 @@ A curated list of awesome Android libraries and projects.
 
 [ZhiDaily](https://github.com/ShineYang/ZhiDaily) -ZhiDaily是一款基于知乎日报重新设计的第三方客户端
 
+[GankWithZhihu](https://github.com/Werb/GankWithZhihu) -just for reading
+
 [FanXin2.0_IM](https://github.com/huangfangyi/FanXin2.0_IM) -超仿微信 android项目 IM
 
 [CarAssistant](https://github.com/qyxxjd/CarAssistant) -汽车助手:消费信息的增删改查;消费记录、百分比统计表;百公里油耗曲线图,最低油耗/最高油耗信息
@@ -337,3 +341,10 @@ A curated list of awesome Android libraries and projects.
 [Meizhi](https://github.com/drakeet/Meizhi) -🔥gank.io unofficial client, RxJava & Retrofit. (The project is no longer actively maintained, we have a better project
 
 [ONE-Unofficial](https://github.com/Uphie/ONE-Unofficial) -An unofficial app of ONE, which I like more and tries to be better
+
+[android-oss](https://github.com/kickstarter/android-oss) -Kickstarter for Android. Bring new ideas to life, anywhere
+
+### 界面效果
+[MaterialShadows](https://github.com/harjot-oberai/MaterialShadows) -目前来看，Android 上最好看的控件阴影实现
+
+[Dayu](https://github.com/Ms0x0/Dayu) -一款开源指纹识别工具
