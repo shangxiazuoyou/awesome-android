@@ -91,6 +91,8 @@ A curated list of awesome Android libraries and projects.
 
 [lib_download](https://github.com/wangdanlizhiyun/lib_download) -处理异步下载的库
 
+[RxDownload](https://github.com/ssseasonnn/RxDownload) -Multi-thread download tool based on RxJava
+
 ### WebView
 [AgentWeb](https://github.com/Justson/AgentWeb) -🔥 AgentWeb 是基于 Android WebView 一个功能完善小型浏览器库 。 使用很方便 ， 集成进你应用 ，只需几行代码
 
@@ -259,6 +261,8 @@ A curated list of awesome Android libraries and projects.
 [OneDaily](https://github.com/tmntduke/OneDaily)
 
 [MinimalistWeather](https://github.com/BaronZ88/MinimalistWeather) -Android 平台开源天气 App，采用 MVP、RxJava、Retrofit2、OKHttp3、Dagger2、RetroLambda 等开源库来实现
+
+[KnowWeather](https://github.com/SilenceDut/KnowWeather) -A nice weather app
 
 [FakeWeather](https://github.com/li-yu/FakeWeather) -『假装看天气』─── 天气预报 & 公交查询 & 资讯阅读 & 妹纸福利 的 Android 客户端
 
