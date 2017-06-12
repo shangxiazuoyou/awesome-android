@@ -76,6 +76,8 @@ A curated list of awesome Android libraries and projects.
 
 [RetrofitUtils](https://github.com/WHuaJian/RetrofitUtils) -对Retrofit的简单封装：设置缓存、公共参数、添加headers、自定义响应体和统一的callback
 
+[NetRequest](https://github.com/thunder413/NetRequest) -Android HTTP library
+
 ### Download
 [Aria](https://github.com/AriaLyy/Aria) -🔥下载可以很简单
 
