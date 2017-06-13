@@ -78,6 +78,8 @@ A curated list of awesome Android libraries and projects.
 
 [NetRequest](https://github.com/thunder413/NetRequest) -Android HTTP library
 
+[okhttputils](https://github.com/hongyangAndroid/okhttputils) -🔥okhttp的辅助类
+
 ### Download
 [Aria](https://github.com/AriaLyy/Aria) -🔥下载可以很简单
 
@@ -253,6 +255,10 @@ A curated list of awesome Android libraries and projects.
 
 [MyCalendarDemo](https://github.com/Werb/MyCalendarDemo) -Android日历软件
 
+[AgendaCalendarView](https://github.com/Tibolte/AgendaCalendarView) -🔥An Android project providing easy navigation between a calendar and an agenda. This library replicates the basic features from the Sunrise Calendar (now Outlook) app, coupled with some small design touch from the Google Calendar app
+
+[Cadar](https://github.com/memfis19/Cadar) -Android solution which represents month and list calendar views
+
 ### 完整项目
 [MeetMusic](https://github.com/lijunyandev/MeetMusic)
 
@@ -317,6 +323,8 @@ A curated list of awesome Android libraries and projects.
 [ZhiDaily](https://github.com/ShineYang/ZhiDaily) -ZhiDaily是一款基于知乎日报重新设计的第三方客户端
 
 [GankWithZhihu](https://github.com/Werb/GankWithZhihu) -just for reading
+
+[ganguo](https://github.com/yanyiqun001/ganguo) -干果——简洁易用的gank客户端
 
 [FanXin2.0_IM](https://github.com/huangfangyi/FanXin2.0_IM) -超仿微信 android项目 IM
 
