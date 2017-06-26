@@ -322,6 +322,8 @@ A curated list of awesome Android libraries and projects.
 
 [ZhiDaily](https://github.com/ShineYang/ZhiDaily) -ZhiDaily是一款基于知乎日报重新设计的第三方客户端
 
+[RimonZhiHuStory](https://github.com/RimonHwang/RimonZhiHuStory) -知乎日报第三方客户端
+
 [GankWithZhihu](https://github.com/Werb/GankWithZhihu) -just for reading
 
 [ganguo](https://github.com/yanyiqun001/ganguo) -干果——简洁易用的gank客户端
