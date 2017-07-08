@@ -242,6 +242,8 @@ A curated list of awesome Android libraries and projects.
 
 [FastHub](https://github.com/k0shk0sh/FastHub) -🔥FastHub the ultimate GitHub client for Android
 
+[WeGit](https://github.com/Leaking/WeGit) -An Android App for Github
+
 ### Calendar
 [MNCalendar](https://github.com/maning0303/MNCalendar) -🔥简单的日历控件练习，水平方向日历支持手势滑动切换，跳转月份；垂直方向日历选取区间范围
 
