@@ -372,3 +372,6 @@ A curated list of awesome Android libraries and projects.
 [MaterialShadows](https://github.com/harjot-oberai/MaterialShadows) -目前来看，Android 上最好看的控件阴影实现
 
 [Dayu](https://github.com/Ms0x0/Dayu) -一款开源指纹识别工具
+
+### 多渠道打包工具
+[walle](https://github.com/Meituan-Dianping/walle) -Android Signature V2 Scheme签名下的新一代渠道包打包神器
